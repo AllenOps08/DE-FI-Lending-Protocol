@@ -15,3 +15,6 @@ docs/
 
 
 .test/fuzz/OpenInvariantsTest.t.sol
+
+lcov.info
+Report.txt
